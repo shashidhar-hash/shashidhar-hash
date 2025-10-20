@@ -1,4 +1,4 @@
-# 💫 About Me:
+# HI ! I'm Shashi:
 Shashi the Analyst
 
 
