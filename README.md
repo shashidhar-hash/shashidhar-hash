@@ -1,5 +1,8 @@
 # HI ! I'm Shashi:
 Shashi the Analyst
+I'm currently learning Data Analyst
+📄 [Check out my Resume](https://github.com/shashidhar-hash/shashidhar-hash/blob/main/Shashidhar_Resume.pdf)
+
 
 
 ## 🌐 Socials:
