@@ -1,6 +1,6 @@
-<div align="center">
+<div>
 
-# 👋 HI! I'm Shashi  
+<h3 align="center">#  HI!👋 I'm Shashi </h3> 
 **Shashi the Analyst**  
 I'm currently learning **Data Analysis**  
 
