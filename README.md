@@ -1,7 +1,7 @@
 # HI ! I'm Shashi:
 Shashi the Analyst
 I'm currently learning Data Analyst
-📄 [Check out my Resume](https://github.com/shashidhar-hash/shashidhar-hash/blob/main/Shashidhar_Resume.pdf)
+📄 [Check out my Resume]([https://github.com/shashidhar-hash/shashidhar-hash/blob/main/Shashidhar_Resume.pdf](https://drive.google.com/file/d/17dNTgwpFn9YzfPwjkU77GV3NVzIgket3/view?usp=drive_link))
 
 
 
