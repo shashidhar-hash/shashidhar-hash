@@ -1,7 +1,12 @@
-# HI ! I'm Shashi:
-**Shashi the Analyst**
-I'm currently learning Data Analytics
+<div align="center">
+
+# 👋 HI! I'm Shashi  
+**Shashi the Analyst**  
+I'm currently learning **Data Analysis**  
+
 📄 [Check out my Resume](https://drive.google.com/file/d/17dNTgwpFn9YzfPwjkU77GV3NVzIgket3/view?usp=drive_link)
+
+</div>
 
 
 ## 🌐 Socials:
