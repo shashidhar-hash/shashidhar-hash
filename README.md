@@ -5,7 +5,7 @@
 <li>Shashi the Analyst</li> 
 <li>I'm currently learning Data Analytics</li> 
 
-<li><a href="(https://drive.google.com/file/d/17dNTgwpFn9YzfPwjkU77GV3NVzIgket3/view?usp=drive_link)
+<li><a href="https://drive.google.com/file/d/17dNTgwpFn9YzfPwjkU77GV3NVzIgket3/view?usp=drive_link
 ">📄Check out my Resume</a></li>
 </div>
 
