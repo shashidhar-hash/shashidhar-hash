@@ -2,7 +2,7 @@
 
 <h3 align="center"> Hi..!👋 I'm Shashidhar </h3> 
 <hr style="border: 1px solid #ccc;">
-**Shashi the Analyst**  
+<li>**Shashi the Analyst** </li> 
 I'm currently learning **Data Analysis**  
 
 📄 [Check out my Resume](https://drive.google.com/file/d/17dNTgwpFn9YzfPwjkU77GV3NVzIgket3/view?usp=drive_link)
