@@ -1,6 +1,6 @@
 # HI ! I'm Shashi:
-Shashi the Analyst
-I'm currently learning Data Analyst
+**Shashi the Analyst**
+I'm currently learning Data Analytics
 📄 [Check out my Resume](https://drive.google.com/file/d/17dNTgwpFn9YzfPwjkU77GV3NVzIgket3/view?usp=drive_link)
 
 
